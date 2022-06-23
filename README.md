@@ -1,1 +1,2 @@
-# kadai10
+# gs_kadai10
+
